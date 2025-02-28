@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import Location from "./Location";
 import ExperienceDropdown from "./ExperienceDropdown";
 import Employmenttype from "./Employmenttype";

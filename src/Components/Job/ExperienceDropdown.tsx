@@ -18,7 +18,7 @@ const ExperienceDropdown: React.FC = () => {
     "Node.js",
     "Django",
     "Express.js",
-    "NestJS",
+    "Next.js",
     "MongoDB",
     "PostgreSQL",
     "MySQL",
